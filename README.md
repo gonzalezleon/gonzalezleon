@@ -29,7 +29,7 @@ HTML5 | CSS3 | JavaScript | PHP | C | C#
 ### 📊 GitHub Stats
 ![Leon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalezleon&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezleon&layout=compact&theme=tokyonight)
 
 ---
 
